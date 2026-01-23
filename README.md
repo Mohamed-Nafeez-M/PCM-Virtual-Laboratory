@@ -1,7 +1,2 @@
-PCM-Virtual-Laboratory/
-│── index.html
-│── css/
-│   └── style.css
-│── js/
-│   └── script.js
-│── README.md
+# PCM_Virtual_Laboratory
+PCM Web Development using HTML JAVASCRIPT CSS
