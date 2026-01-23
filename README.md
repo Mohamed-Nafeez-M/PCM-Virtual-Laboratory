@@ -1,2 +1,2 @@
-# PCM_Virtual_Laboratory
-PCM Web Development using HTML JAVASCRIPT CSS
+# PCM-Virtual-Laboratory
+PCM frontend website using HTML, CSS, JavaScript
